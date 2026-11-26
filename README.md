@@ -1,2 +1,2 @@
-# Analysis-on-Customer-Purchase-Behaviour--Electonics-Sales-Data-
+# Analysis on Customer Purchase Behaviour-Electonics Sales Data 
 Data cleaning and preprocessing were performed in Microsoft Excel, including handling missing values, checking duplicates, correcting inconsistencies and creating new derived columns. The cleaned data was then imported into Microsoft Power BI to build interactive dashboards and reports that show sales performance, customer behavior and trends.
